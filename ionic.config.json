@@ -1,0 +1,7 @@
+{
+  "name": "projetoVidaTerrestre",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
